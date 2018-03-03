@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 10W三线圈-XT.PcbDoc   2018/3/3  12:15:25
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 10W三线圈-XT-RoundHoles.TXT
+ASCII SlotHoles File : 10W三线圈-XT-SlotHoles.TXT
+EIA File   : 10W三线圈-XT.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        15.75mil (0.40005mm)     Round          234              28.27 Inch (718.02 mm)
+T2        23.62mil (0.59995mm)     Slot           4                284.48 Inch (7225.84 mm)
+T3        25.59mil (0.64999mm)     Round          2                0.23 Inch (5.78 mm)
+---------------------------------------------------------------------------
+Totals                                            240              312.98 Inch (7949.64 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

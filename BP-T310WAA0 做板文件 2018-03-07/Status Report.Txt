@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [XL_N76E003K3..PrjPCB]
+   Generated File[10W三线圈-XT-RoundHoles.TXT]
+   Generated File[10W三线圈-XT-SlotHoles.TXT]
+   Generated File[10W三线圈-XT.DRL]
+   Generated File[10W三线圈-XT.LDP]
+   Generated File[10W三线圈-XT.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 12:15:25 On 2018/3/3
